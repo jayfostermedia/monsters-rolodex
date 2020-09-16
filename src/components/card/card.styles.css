@@ -13,8 +13,7 @@
 }
 
 .card-container img {
-  width: 180px !important;
-  height: 180px !important;
+  width: 100%;
   margin: 0 auto;
 }
 
